@@ -33,10 +33,6 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "angular": "^1.5.9"
-=======
     "angular": "^1.5.7"
->>>>>>> master
   }
 }
